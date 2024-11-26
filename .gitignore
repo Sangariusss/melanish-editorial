@@ -1,0 +1,41 @@
+# Node modules
+/node_modules/
+
+# Build output
+/dist/
+/public/build/
+/public/assets/
+
+# Vite cache
+/.vite/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Tailwind CSS generated files
+/public/tailwind/
+
+# Package lock and npm-related files
+/package-lock.json
+/pnpm-lock.yaml
+/yarn.lock
+
+# .env file for sensitive configuration
+.env*
+
+# Ignore test coverage and other local configurations
+/coverage/
+/test/
