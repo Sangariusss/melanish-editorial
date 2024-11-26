@@ -36,6 +36,9 @@ Thumbs.db
 # .env file for sensitive configuration
 .env*
 
+# CSS files
+*.css
+
 # Ignore test coverage and other local configurations
 /coverage/
 /test/
